@@ -1,0 +1,8 @@
+.signUpBackgroundImage{
+    width: 100%;
+}
+.signUpAvatar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
